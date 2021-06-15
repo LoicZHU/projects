@@ -1,8 +1,8 @@
 # Liste de projets
 
 ## Fullstack JavaScript
-### Angular et Node.js
-- __Pangobook__ (en cours) : Site web de carnet d'adresse. 
+### <span style="color: crimson">Angular</span> / <span style="color: lightgrey">Node.js</span>
+- __Pangobook__ (juin 2021) : Site web de carnet d'adresse. 
   - GitHub : https://github.com/LoicZHU/p-appartoo
   - Technologies : Angular, Bootstrap, Express.js / TypeScript, MongoDB<br/></br>
 
@@ -11,19 +11,19 @@
   - Technologies : Angular, Sass (SCSS), Express.js / TypeScript, MongoDB
 
 ## Front-end
-### Bootstrap
+### <span style="color: blueviolet">Bootstrap</span>
 - __Aftermeal__ (décembre 2020) : intégration de maquette
   - GitHub : https://github.com/LoicZHU/aftermeal
   - GitLab : https://gitlab.com/wr-cl/wr-bootstrap-the-after-meal
   - Technologies : HTML, CSS, Bootstrap
   
-### Vue.js
+### <span style="color: lightseagreen">Vue.js</span>
 - __Lego film__ (septembre 2020) : Site web affichant des films Lego récupéré depuis une source publique en ligne
   - GitHub : https://github.com/LoicZHU/Vue-Film
   - Site web : https://lz-film.netlify.app
   - Technologies : JavaScript, Vue.js, VueX, Vue router, Sass (SCSS), Axios
 
-### React.js
+### <span style="color: deepskyblue">React.js</span>
 - __React Converter__ : Site web de convertisseur de devise monétaire
   - GitHub : https://github.com/LoicZHU/React-Converter
   - Site web : https://lz-converter.netlify.app
