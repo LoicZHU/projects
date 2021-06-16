@@ -1,6 +1,6 @@
 # Liste de projets
 
-## Fullstack JavaScript
+## Fullstack
 ### <span style="color: crimson">Angular</span> / <span style="color: lightgrey">Node.js</span>
 - __Pangobook__ (juin 2021) : Site web de carnet d'adresse. 
   - GitHub : https://github.com/LoicZHU/p-appartoo
@@ -9,6 +9,12 @@
 - __Training course__ (mai 2021 non terminé) : Site web de gestion de cours en ligne (LMS)
   - GitHub : https://github.com/LoicZHU/wr-training-course
   - Technologies : Angular, Sass (SCSS), Express.js / TypeScript, MongoDB
+  
+### <span style="color: deepskyblue">React.js</span> (Symfony)
+- __ListEat__ (avril - mai 2020) : Site web permettant de gérer une liste d'attente de restaurateurs et de s'y inscrire.
+  - GitHub : https://github.com/LoicZHU/React-ListEat-project
+  - YouTube (13 mn) : https://youtu.be/DpvXly0SK6c?t=3531
+  - Technologies : JavaScript, React.js (orienté fonctionnel), React Redux, React router, Sass (SCSS), Axios
 
 ## Front-end
 ### <span style="color: blueviolet">Bootstrap</span>
@@ -28,10 +34,10 @@
   - GitHub : https://github.com/LoicZHU/React-Converter
   - Site web : https://lz-converter.netlify.app
   - Technologies : JavaScript, React.js (orienté class)<br/><br/>
-
-- __ListEat__ (avril - mai 2020) : Site web permettant de gérer une liste d'attente de restaurateurs et de s'y inscrire.
-  - GitHub : https://github.com/LoicZHU/React-ListEat-project
-  - YouTube (13 mn) : https://youtu.be/DpvXly0SK6c?t=3531
-  - Technologies : JavaScript, React.js (orienté fonctionnel), React Redux, React router, Sass (SCSS), Axios
+  
+- __React Blog__ : Site avec des articles
+  - GitHub : https://github.com/LoicZHU/React-Blog
+  - Site web : http://lz-blog.netlify.app
+  - Technologies : JavaScript, React.js, React router, Axios<br/><br/>
   
   
