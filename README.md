@@ -30,12 +30,16 @@
   - Technologies : JavaScript, Vue.js, VueX, Vue router, Sass (SCSS), Axios
 
 ### <span style="color: deepskyblue">React.js</span>
-- __React Converter__ : Site web de convertisseur de devise monétaire
+- __Spotify API__ (juin 2021) : Site web utilisant une API de Spotify
+  - GitHub : https://github.com/LoicZHU/s-blacksmith
+  - Technologies : React.js / TypeScript, Sass (SCSS)<br/><br/>
+
+- __React Converter__ (mi-2020) : Site web de convertisseur de devise monétaire
   - GitHub : https://github.com/LoicZHU/React-Converter
   - Site web : https://lz-converter.netlify.app
   - Technologies : JavaScript, React.js (orienté class)<br/><br/>
   
-- __React Blog__ : Site avec des articles
+- __React Blog__ (mi-2020) : Site avec des articles
   - GitHub : https://github.com/LoicZHU/React-Blog
   - Site web : http://lz-blog.netlify.app
   - Technologies : JavaScript, React.js, React router, Axios<br/><br/>
