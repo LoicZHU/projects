@@ -10,7 +10,7 @@
   - GitHub : https://github.com/LoicZHU/wr-training-course
   - Technologies : Angular, Sass (SCSS), Express.js / TypeScript, MongoDB
   
-### <span style="color: deepskyblue">React.js</span> (Symfony)
+### <span style="color: deepskyblue">React.js</span> (/ Symfony)
 - __ListEat__ (avril - mai 2020) : Site web permettant de gérer une liste d'attente de restaurateurs et de s'y inscrire.
   - GitHub : https://github.com/LoicZHU/React-ListEat-project
   - YouTube (13 mn) : https://youtu.be/DpvXly0SK6c?t=3531
@@ -30,7 +30,7 @@
   - Technologies : JavaScript, Vue.js, VueX, Vue router, Sass (SCSS), Axios
 
 ### <span style="color: deepskyblue">React.js</span>
-- __Spotify API__ (juin 2021) : Site web utilisant une API de Spotify
+- __Spotify player__ (juin 2021) : Site web utilisant une API de Spotify
   - GitHub : https://github.com/LoicZHU/s-blacksmith
   - Technologies : React.js / TypeScript, Sass (SCSS)<br/><br/>
 
