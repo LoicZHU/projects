@@ -10,11 +10,6 @@
   - GitHub : https://github.com/LoicZHU/wr-training-course
   - Technologies : Angular, Sass (SCSS), Express.js / TypeScript, MongoDB
   
-### <span style="color: deepskyblue">React.js</span> (/ Symfony)
-- __ListEat__ (avril - mai 2020) : Site web permettant de gérer une liste d'attente de restaurateurs et de s'y inscrire.
-  - GitHub : https://github.com/LoicZHU/React-ListEat-project
-  - YouTube (13 mn) : https://youtu.be/DpvXly0SK6c?t=3531
-  - Technologies : JavaScript, React.js (orienté fonctionnel), React Redux, React router, Sass (SCSS), Axios
 
 ## Front-end
 ### <span style="color: blueviolet">Bootstrap</span>
