@@ -34,9 +34,5 @@
   - Site web : https://lz-converter.netlify.app
   - Technologies : JavaScript, React.js (orienté class)<br/><br/>
   
-- __React Blog__ (mi-2020) : Site avec des articles
-  - GitHub : https://github.com/LoicZHU/React-Blog
-  - Site web : http://lz-blog.netlify.app
-  - Technologies : JavaScript, React.js, React router, Axios<br/><br/>
   
   
