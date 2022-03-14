@@ -1,6 +1,11 @@
 # Liste de projets
 
 ## Fullstack
+### <span style="color: crimson">Angular</span> / <span style="color: lightblue">Java EE</span>
+- __ColorPhone__ (mars - en cours) : Site e-commerce de téléphones.
+  - GitHub : https://github.com/LoicZHU/colorphone
+  - Technologies : Angular, Sass (SCSS), Java EE, PostgreSQL
+
 ### <span style="color: crimson">Angular</span> / <span style="color: lightgrey">Node.js</span>
 - __Pangobook__ (juin 2021) : Site web de carnet d'adresse. 
   - GitHub : https://github.com/LoicZHU/p-appartoo
