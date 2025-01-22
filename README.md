@@ -1,6 +1,6 @@
 # Projects
 
-## Front-end development
+## Front-end
 ### Bootstrap
 - **Aftermeal**: Website mock-up of deserts
   - **GitHub**: https://github.com/LoicZHU/aftermeal
@@ -23,3 +23,11 @@
   - **GitHub** : https://github.com/LoicZHU/React-Blog
   - **URL** : http://lz-blog.netlify.app
   - **Technologies** : React.js
+
+## Console
+- **Starship factory**: A factory assembling starship components and managing starships.
+  - **GitHub**: https://github.com/ESGI-4AL2/4AL-design-patterns/tree/03-solution-modules
+  - **Technologies**: C#, xUnit, NSubstitute, Stryker
+- **funprog**: From an input file text or inputs in the terminal, outputting a mower's destination and direction into CSV, JSON and YAML files.
+  - **GitHub**: https://github.com/LoicZHU/4AL2-scala-funprog
+  - **Technologies**: Scala, munit
