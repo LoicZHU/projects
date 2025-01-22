@@ -18,16 +18,19 @@
 - **React Converter**: Not a real-time currency converters
   - **GitHub**: https://github.com/LoicZHU/React-Converter
   - **URL**: https://lz-converter.netlify.app
-  - **Technologies**: React.js<br/><br/>
+  - **Technologies**: HTML, Scss, React<br/><br/>
 - **React Blog**
   - **GitHub** : https://github.com/LoicZHU/React-Blog
   - **URL** : http://lz-blog.netlify.app
-  - **Technologies** : React.js
+  - **Technologies** : HTML, Scss, React
 
 ## Console
+### C#
 - **Starship factory**: A factory assembling starship components and managing starships.
   - **GitHub**: https://github.com/ESGI-4AL2/4AL-design-patterns/tree/03-solution-modules
   - **Technologies**: C#, xUnit, NSubstitute, Stryker
-- **funprog**: From an input file text or inputs in the terminal, outputting a mower's destination and direction into CSV, JSON and YAML files.
+ 
+### Scala
+- **funprog**: From inputs in the terminal or from a text file, outputting a mower's destination and direction into CSV, JSON and YAML files.
   - **GitHub**: https://github.com/LoicZHU/4AL2-scala-funprog
   - **Technologies**: Scala, munit
