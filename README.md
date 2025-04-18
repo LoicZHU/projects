@@ -29,8 +29,3 @@
 - **Starship factory**: A factory assembling starship components and managing starships, by leveraging relevant software design patterns.
   - **GitHub**: https://github.com/LoicZHU/4AL2-csharp-starship-factory/tree/03-solution-modules
   - **Technologies**: C#, xUnit, NSubstitute, Stryker
- 
-### Scala
-- **funprog**: From inputs in the terminal or from a text file, outputting a mower's destination and direction into: CSV, JSON and YAML files.
-  - **GitHub**: https://github.com/LoicZHU/4AL2-scala-funprog
-  - **Technologies**: Scala, munit
